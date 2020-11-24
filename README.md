@@ -20,7 +20,10 @@ This is a simple vertical scrolling shooter game made with Python Pygame. The in
 - "yet another ship" by Squirrelsquid, CC BY-NC-SA 3.0 License: https://www.deviantart.com/squirrelsquid/art/Little-ship-98514271
 - "deep space nebula" by Squirrelsquid: http://pixeljoint.com/p/1889.htm
 - "Retro spaceships" by Jerom, licensed CC-BY 3.0: https://opengameart.org/users/jerom
-- "Level up sound effects" by Bart Kelsey. Commissioned by Will Corwin for OpenGameArt.org, licenced 
+- "Level up sound effects" by Bart Kelsey. Commissioned by Will Corwin for OpenGameArt.org, licenced
 - "8-Bit Background Music" by David Fesliyan, licensed royalty free: https://www.fesliyanstudios.com/royalty-free-music/downloads-c/8-bit-music/6
 - "Sound Effects" by NoiseForFun.com, licensed royalty free: https://www.noiseforfun.com/
 - "Fireball-animations" by Randy van der Vlag. For Pixel Dodgers. https://www.artstation.com/artwork/Pg4v8
+
+## Screenshot
+![image](screenshot.png?raw=true)
