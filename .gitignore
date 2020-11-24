@@ -1,2 +1,11 @@
-Credits.txt
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+.idea/
+
+# Assets
 assets/
+
+# Text
+Credits.txt
