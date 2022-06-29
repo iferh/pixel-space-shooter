@@ -1,5 +1,8 @@
 # Pixel Space Shooter
-A scrolling shooter game made in Pygame.
+A scrolling shooter game made in Pygame. To play run:
+```
+python main.py
+```
 
 ## Overview
 This is a simple vertical scrolling shooter game made with Python Pygame. The initial development of the game was based on the Pygame Tutorial [Creating Space Invaders](https://www.youtube.com/watch?v=Q-__8Xw9KTM) by Tech-With-Tim, but the game was expanded and improved. Added features include:
